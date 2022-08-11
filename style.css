@@ -1,0 +1,21 @@
+#pictures{
+    width: 500px;
+    
+}
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: #B4CFB0;
+}
+.btn{
+    background-color: #FFFBE9;
+    border: #E3CAA5;
+    color:#362222;
+    font-family: 'Square Peg', cursive;
+    font-size: 30px;
+    font-style: italic;
+    
+}
